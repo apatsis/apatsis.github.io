@@ -1,8 +1,14 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "About Me"
+
+layout: single
+classes: wide
+
+header:
+  image: /assets/images/cover_wide.jpg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a geomicrobiologist interested in microbial metabolism, diversity, and biogeography and how microbe-rock-water interactions impact our planet. I care about community-engaged scholarship and aim to build lasting relationships with local community groups to engaging in research, teaching, and outreach that centers the priorities of communities traditionally marginalized within the sciences. As a first-generation college student I care about fostering connections between individuals who hold the first-gen identity and helping them navigate academic spaces. In my free time, you can find enjoying the outdoors with my dogs.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am currently a PhD Candidate at the University of Minnesota - Twin Cities. 
