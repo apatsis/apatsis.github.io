@@ -59,10 +59,7 @@ plugins:
 author:
   name   : "Amanda Patsis"
   avatar : {{ site.url }}{{ site.baseurl }}/assets/images/bio.jpg
-  bio    : > + 
-          Doctoral Candidate | Graduate Researcher
-          Department of Earth & Environmental Sciences 
-          University of Minnesota - Twin Cities
+  bio    : "Doctoral Candidate | Graduate Researcher /n Department of Earth & Environmental Sciences /n University of Minnesota - Twin Cities"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
