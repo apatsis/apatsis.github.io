@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Amanda Patsis"
-  avatar : "/assets/images/bio.jpg"
+  avatar : /assets/images/bio.jpg
   bio    : > + 
           Doctoral Candidate | Graduate Researcher
           Department of Earth & Environmental Sciences 
