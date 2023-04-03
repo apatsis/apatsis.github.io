@@ -74,10 +74,8 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=9GzX90sAAAAJ"
     - label: "OrcID"
-      icon: "fas fa-fw fa-info"
       url: "https://orcid.org/0000-0002-4414-9777"
 
 defaults:
