@@ -1,6 +1,12 @@
 ---
 permalink: /cv/
 title: "CV"
-___
+
+layout: single
+classes: wide
+
+header:
+  image: /assets/images/bif.jpeg
+---
 
 CV
