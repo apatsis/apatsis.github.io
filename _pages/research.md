@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/bif.jpeg
 
 feature_row:
-  - image_path: /assets/images/soudan_samplingjpeg.jpeg.jpeg
+  - image_path: /assets/images/soudan_samplingjpeg.jpeg
     alt: "Microbial Life in Soudan Mine "
     title: "Super customizable"
     excerpt: "Microbes @ Soudan."
@@ -23,6 +23,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
+
 
 {% include feature_row %}
 
