@@ -64,6 +64,9 @@ author:
           Dept of Earth Sciences   
           University of Minnesota
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:patsi005@umn.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=9GzX90sAAAAJ"
@@ -71,14 +74,19 @@ author:
       icon: "fas fa-fw fa-info"
       url: "https://orcid.org/0000-0002-4414-9777"
 
+
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:patsi005@umn.edu"
     - label: "Google Scholar"
       icon: " "
       url: "https://scholar.google.com/citations?hl=en&user=9GzX90sAAAAJ"
     - label: "OrcID"
       icon: " "
       url: "https://orcid.org/0000-0002-4414-9777"
+
 
 defaults:
   # _posts
