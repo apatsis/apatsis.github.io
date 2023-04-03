@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:patsi005@umn.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=9GzX90sAAAAJ"
     - label: "OrcID"
       icon: "fas fa-fw fa-info"
