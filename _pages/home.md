@@ -15,9 +15,9 @@ I am currently a PhD Candidate at the University of Minnesota - Twin Cities.
 
 
 __<font size = "5" >Education</font>__  
-PhD in Geomicrobiology     |     in progress
+PhD in Geomicrobiology     |     in progress  
 *University of Minnesota* 
   
-BA in Biology              |      2013 - 2017*
+BA in Biology              |      2013 - 2017  
 *Amherst College*
 
