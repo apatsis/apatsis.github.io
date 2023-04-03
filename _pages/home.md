@@ -14,13 +14,13 @@ I'm a geomicrobiologist interested in microbial metabolism, diversity, and bioge
 I am currently a PhD Candidate at the University of Minnesota - Twin Cities. 
 
 
-_<font size = "5" >Education</font>_
+__<font size = "5" >Education</font>__
 
 #Education 
 
 PhD in Geomicrobiology | in progress   
-University of Minnesota  
+*University of Minnesota*  
   
 BA in Biology | 2013 - 2017  
-Amherst College   
+*Amherst College*   
 
