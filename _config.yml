@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Amanda Patsis"
   avatar : "/assets/images/bio.jpg"
-  bio    : >
+  bio    : |
           Doctoral Candidate   
           Dept of Earth Sciences   
           University of Minnesota
