@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=9GzX90sAAAAJ"
     - label: "OrcID"
       icon: "fab fa-fw fa-info"
