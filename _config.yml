@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and biogeography and how microbe-rock-water interactions impact our planet. 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
