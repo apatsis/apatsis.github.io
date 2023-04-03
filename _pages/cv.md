@@ -6,7 +6,7 @@ layout: single
 classes: wide
 
 header:
-  image: /assets/images/bif.jpeg
+  image: /assets/images/bif.png
 ---
 
 CV
