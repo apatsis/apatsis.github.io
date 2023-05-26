@@ -8,20 +8,17 @@ header:
 
 feature_row:
   - image_path: /assets/images/soudan_samplingjpeg.jpeg
-    alt: "Microbial Life in Soudan Mine "
-    title: "Super customizable"
-    excerpt: "Microbes @ Soudan."
-    url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    alt: "Microbes in Soudan"
+    title: "Microbial Life in Soudan Mine"
+    excerpt: " [under construction]"
+    url: "/rese arch/"
     
   - image_path: /assets/images/soudan2.JPG
     alt: "OrgS"
     title: "Organic Sulfur Cycling"
-    excerpt: "Biogeochemical sulfur cycling & importance of orgS."
+    excerpt: " [under construction] " 
+"
     url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 
