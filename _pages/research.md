@@ -17,7 +17,6 @@ feature_row:
     alt: "OrgS"
     title: "Organic Sulfur Cycling"
     excerpt: " [under construction] " 
-"
     url: "/research/"
 ---
 
