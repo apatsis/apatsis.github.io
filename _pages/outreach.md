@@ -19,7 +19,7 @@ feature_row:
     alt: "AFGS"
     title: "Association of First-Generation Graduate Students"
     excerpt: " I am a founding member and Vice President of a new student organization at the University of Minnesota that aims to provide a community for graduate students who identify as first-generation college students. Through social events and educational programming, we foster connections between first-gen scholars of different disciplines to celebrate and support these students." 
-    url: "/research/"
+    url: "/outreach/"
 ---
 
 
