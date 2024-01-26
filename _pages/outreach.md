@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/images/littlehotcreek.jpg
 
 feature_row1:
-  - image_path: /assets/splash/feat1-2.jpg
-    title: "Placeholder 1"
+  - image_path: /assets/images/Rivoli.jpg
+    title: "Environmental Justice Summit: building community-university partnerships"
     excerpt: "Right-aligned image with ``"
 feature_row2:
   - image_path: /assets/splash/feat1-3.jpg
