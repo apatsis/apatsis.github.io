@@ -4,11 +4,11 @@
 
 ---
 permalink: /outreach/
-title: "Outreach & Community Engagement"
+title: "Outreach"
 layout: splash
 
 header:
-  overlay_image: /assets/images/littlehotcreek.jpeg
+  overlay_image: /assets/images/littlehotcreek.jpg
   caption: "Mammoth, CA"
 
 
