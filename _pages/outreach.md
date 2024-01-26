@@ -7,6 +7,8 @@ permalink: /outreach/
 header:
   overlay_image: /assets/images/littlehotcreek.jpg
 
+
+
 feature_row3:
   - image_path: /assets/images/Rivoli.jpg
     alt: "Urban Agriculture Site, St. Paul MN "
