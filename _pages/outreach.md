@@ -8,9 +8,9 @@ header:
 
 feature_row:
   - image_path: /assets/images/soudan_samplingjpeg.jpeg
-    alt: "Community Summit"
-    title: "University of Minnesota - Community Summit"
-    excerpt: "Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university mission to engage and serve was not being accomplished due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN researchers and scientists and communities from across the Twin Cities. Our goal is to initiate and support meaningful relationships between these groups, and build awareness, understanding, and capacity for community-centered research and engagement in the Twin Cities. From these relationships we hope to foster earth science research and curriculum that supports the community’s priorities. After attending the 2021 event, I have become a member of the organizing team and worked with a planning committee of UMN and community partners to plan the second iteration of the event that we held in 2023.
+    alt: "Community-University Summit"
+    title: "Community - University Environmental Justic Summit"
+    excerpt: "Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being accomplished due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities. Our goal is to initiate and support meaningful relationships between these groups and build awareness, understanding, and capacity for community-centered research in the Twin Cities. From these relationships, we aim to foster earth science research and curriculum that supports our community and aligns with their priorities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event.  
 
 "
     url: "/outreach/"
@@ -18,7 +18,8 @@ feature_row:
   - image_path: assets/images/AFGS group photo1edit1.jpg
     alt: "AFGS"
     title: "Association of First-Generation Graduate Students"
-    excerpt: " I am a founding member and Vice President of a new student organization at the University of Minnesota that aims to provide a community for graduate students who identify as first-generation college students. Through social events and educational programming, we foster connections between first-gen scholars of different disciplines to celebrate and support these students." 
+    excerpt: "I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students. 
+    " 
     url: "/outreach/"
 ---
 
