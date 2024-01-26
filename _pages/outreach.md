@@ -25,8 +25,6 @@ feature_row2:
     excerpt: "I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students." 
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row id="feature_row1" type="center" %}
 
 {% include feature_row id="feature_row2" type="center" %}
