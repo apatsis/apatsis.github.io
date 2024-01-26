@@ -7,8 +7,6 @@ permalink: /outreach/
 header:
   overlay_image: /assets/images/littlehotcreek.jpg
 
-
-
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -29,11 +27,7 @@ feature_row4:
 ---
 
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
