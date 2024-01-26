@@ -4,6 +4,7 @@ layout: splash
 permalink: /outreach/
 header:
   overlay_image: /assets/images/littlehotcreek.jpg
+  caption: "Mammoth, CA"
 
 feature_row1:
   - image_path: /assets/images/Rivoli.jpg
