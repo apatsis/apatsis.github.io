@@ -1,30 +1,74 @@
-
-
-
-
 ---
-permalink: /outreach/
+
 title: "Outreach"
 layout: splash
+permalink: /outreach/
 
 header:
-  overlay_image: /assets/images/littlehotcreek.jpg
-  caption: "Mammoth, CA"
-
-
-feature_row1:
-  - image_path: /assets/images/Rivoli.jpg
-    alt: "Environmental Justic Summit"
-    title: "Environmental Justic Summit: Building community-university partnerships"
-    excerpt: "Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at this event have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event."
-
-feature_row2:   
-  - image_path: assets/images/AFGS_potluck.png
-    alt: "AFGS"
-    title: "Association of First-Generation Graduate Students"
-    excerpt: "I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students." 
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+
+
+
+
+
