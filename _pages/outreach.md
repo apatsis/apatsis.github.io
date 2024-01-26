@@ -8,8 +8,7 @@ header:
   overlay_image: /assets/images/littlehotcreek.jpg
 
   
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -56,7 +55,6 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
