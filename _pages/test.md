@@ -51,14 +51,13 @@ I am a founding member of the Association of First-Generation Graduate Students 
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center"></td>
-    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center"></td>
+    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/josie_round.png" alt="" class="center"></td>
+    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/cam_round.png" alt="" class="center"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Josie</td>
     <td class="tg-0lax">Cambria</td>
   </tr>
-
 
 
 
