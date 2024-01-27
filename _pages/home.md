@@ -21,3 +21,16 @@ PhD in Geomicrobiology     |     in progress
 BA in Biology              |      2013 - 2017  
 *Amherst College*
 
+
+__<font size = "5" >Field Assistants</font>__  
+<table style="width: 50%;">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="50%"></td>
+    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="50%"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" style="font-size: medium;" >Josie</td>
+    <td class="tg-0lax" style="font-size: medium;">Cambria</td>
+  </tr>
+
