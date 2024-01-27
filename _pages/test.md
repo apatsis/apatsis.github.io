@@ -38,8 +38,8 @@ header:
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center" width="50"></td>
-    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center" width="50></td>
+    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center"></td>
+    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Josie</td>
