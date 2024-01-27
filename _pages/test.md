@@ -36,3 +36,32 @@ I am a founding member of the Association of First-Generation Graduate Students 
 
 | <img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center">  | Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at these events have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event. |
 | git diff | Show file differences that haven't been staged |
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center"></td>
+    <td class="tg-0lax"><img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Josie</td>
+    <td class="tg-0lax">Cambria</td>
+  </tr>
+
+
+
+
+
+
+
