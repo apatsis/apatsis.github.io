@@ -32,7 +32,7 @@ header:
 
 
 <h2 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h2>
-<h3 style="font-weight:normal;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h3>
+<h3 style="font-weight:normal; padding-top:0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h3>
 
 <table style="width: 100%">
 <tbody>
