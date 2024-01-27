@@ -69,7 +69,7 @@ header:
 
 <h1 style="text-align: center;padding-bottom: 0;margin-bottom:0;">Field Assistants: </h1>
 
-<table class="tg">
+<table class="tg" style="width: 50%;">
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="30%"></td>
