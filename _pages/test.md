@@ -10,6 +10,7 @@ header:
 <h1 style="text-align: center;padding-bottom: 0;">Environmental Justice Summit</h1>
 <h2 style="text-align: center;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
 
+ <img src="Rivoli.jpg" alt="Urban Roots Farm Site" width="50%"/>
 
 ![RivoliBluff](/assets/images/Rivoli.jpg)
 
