@@ -13,6 +13,7 @@ I'm a geomicrobiologist interested in microbial metabolism, diversity, and bioge
 
 I am currently a PhD Candidate at the University of Minnesota - Twin Cities. 
 
+<br>
 
 __<font size = "5" >Education</font>__  
 PhD in Geomicrobiology     |     in progress  
@@ -21,16 +22,18 @@ PhD in Geomicrobiology     |     in progress
 BA in Biology              |      2013 - 2017  
 *Amherst College*
 
+<br>
+<br>
 
 __<font size = "5" >Field Assistants</font>__  
-<table style="width: 50%;">
+<table style="width: 50%">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="50%"></td>
-    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="50%"></td>
+    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="65%"></td>
+    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="65%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="font-size: medium;" >Josie</td>
-    <td class="tg-0lax" style="font-size: medium;">Cambria</td>
+    <td class="tg-0lax" style="font-size: medium;text-align: center;" >Josie</td>
+    <td class="tg-0lax" style="font-size: medium;text-align: center;">Cambria</td>
   </tr>
 
