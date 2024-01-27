@@ -23,12 +23,12 @@ BA in Biology              |      2013 - 2017
 
 <br>
 
-__<font size = "5" >    Field Assistants</font>__  
-<table style="width: 40%">
+__<font size = "5" >Field Assistants</font>__  
+<table style="width: 50%">
 <tbody>
   <tr>
-    <td class="tg-0lax" style="text-align: center;" ><img src="/assets/images/josie_round.png" alt="" width="65%"></td>
-    <td class="tg-0lax" style="text-align: center;" ><img src="/assets/images/cam_round.png" alt="" width="65%"></td>
+    <td class="tg-0lax" style="text-align: center;" ><img src="/assets/images/josie_round.png" alt="" ></td>
+    <td class="tg-0lax" style="text-align: center;" ><img src="/assets/images/cam_round.png" alt="" ></td>
   </tr>
   <tr>
     <td class="tg-0lax" style="font-size: large;text-align: center;" >Josie</td>
