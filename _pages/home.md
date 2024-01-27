@@ -33,7 +33,7 @@ __<font size = "5" >Field Assistants</font>__
     <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="65%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="font-size: medium;text-align: center;" >Josie</td>
+    <td class="tg-0lax" style="text-align: center;" >Josie</td>
     <td class="tg-0lax" style="font-size: medium;text-align: center;">Cambria</td>
   </tr>
 
