@@ -7,7 +7,7 @@ header:
   caption: "Mammoth, CA"
 ---
 
-<p style="text-align: center;"># Environmental Justice Summit: Building sustainable community-university partnerships</p>
+<h1 style="text-align: center;">Environmental Justice Summit: Building sustainable community-university partnerships</h1>
 
 ![RivoliBluff](/assets/images/Rivoli.jpg){: .align-center} 
 
