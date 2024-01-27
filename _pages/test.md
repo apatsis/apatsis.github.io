@@ -32,27 +32,16 @@ header:
 <br><br><br>
 
 
-<h1 style="text-align: center;">Field Assistants: </h1>
+<h1 style="text-align: left;">Field Assistants: </h1>
 
-<table class="tg" style="width: 50%;">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="30%"></td>
-    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="30%"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Josie</td>
-    <td class="tg-0lax">Cambria</td>
-  </tr>
-
-<table class="center" style="width: 50%;">
+<table style="width: 50%;">
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="50%"></td>
     <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" width="50%"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="font-size: 35px;" >Josie</td>
-    <td class="tg-0lax" style="font-size: 35px;">Cambria</td>
+    <td class="tg-0lax" style="font-size: medium;" >Josie</td>
+    <td class="tg-0lax" style="font-size: medium;">Cambria</td>
   </tr>
 
