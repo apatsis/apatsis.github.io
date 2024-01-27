@@ -12,7 +12,9 @@ header:
 
 
 <div style="width:20%; margin: auto;">
+  
 ![RivoliBluff](/assets/images/Rivoli.jpg)
+
 </div>
 
 
