@@ -8,10 +8,10 @@ header:
 ---
 
 <h1 style="text-align: center;padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h1>
-<h2 style="text-align: center;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
+<h2 style="text-align: center; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
 
 
-<div style="width:20%; margin: auto;">
+<div style="width:10%; margin: auto;">
   
 ![RivoliBluff](/assets/images/Rivoli.jpg)
 
@@ -25,8 +25,8 @@ Following the murder of George Floyd on May 25, 2020, only 6 km from the Univers
 
 <br>
 
-<h1 style="text-align: center;padding-bottom: 0;">Association of First-Generation Graduate Students</h1>
-<h2 style="text-align: center;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h2>
+<h1 style="text-align: center;padding-bottom: 0;margin-bottom:0;">Association of First-Generation Graduate Students</h1>
+<h2 style="text-align: center;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h2>
 
 ![AFGS](/assets/images/AFGS_Potluck_photo1.png)
 
