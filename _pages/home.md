@@ -26,7 +26,7 @@ BA in Biology              |      2013 - 2017
 <br>
 
 __<font size = "5" >Field Assistants</font>__  
-<table style="width: 50%">
+<table style="width: 40%">
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" width="65%"></td>
