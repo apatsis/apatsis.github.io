@@ -11,16 +11,10 @@ header:
 <h2 style="text-align: center;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
 
 
+<div style="width:20%; margin: auto;">
 ![RivoliBluff](/assets/images/Rivoli.jpg)
+</div>
 
-
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 <img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center">
 
