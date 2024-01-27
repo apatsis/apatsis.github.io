@@ -11,15 +11,7 @@ header:
 <h2 style="text-align: center;font-weight:normal;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
 
 
-<div style="width:10%; margin: auto;">
-  
-![RivoliBluff](/assets/images/Rivoli.jpg)
-
-</div>
-
-
-<img src="https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg" alt="" class="center">
-
+![AFGS](/assets/images/AFGS_Potluck_photo1.png)
 
 Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at these events have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event. 
 
@@ -35,6 +27,13 @@ I am a founding member of the Association of First-Generation Graduate Students 
 <br><br>
 
 ![]([http://url/to/img.png](https://github.com/apatsis/apatsis.github.io/blob/master/assets/images/Rivoli.jpg))| Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at these events have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event. 
+
+
+<figure>
+    <img src="/assets/images/Rivoli.jpg"
+         alt="">
+    <figcaption>Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at these events have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event. </figcaption>
+</figure>
 
 <br><br>
 
