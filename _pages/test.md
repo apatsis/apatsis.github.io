@@ -31,27 +31,15 @@ header:
 
 
 
-<br><br>
+<br><br><br>
 
-<h1 style="text-align: center;padding-bottom: 0;margin-bottom:0;">Field Assistants: </h1>
-
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center" width=75%></td>
-    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center" width=75%></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Josie</td>
-    <td class="tg-0lax">Cambria</td>
-  </tr>
 
 
 <html>
 <head>
    <style>
       body {
-         text-align: center;
+         text-align: left;
       }
       figure {
          display: block;
@@ -59,7 +47,7 @@ header:
          padding: 0;
       }
       figcaption {
-         font-size: small;
+         font-size: medium;
          color: white;
          margin-top: 10px;
          padding: 5px;
@@ -74,4 +62,22 @@ header:
    </figure>
 </body>
 </html>
+
+
+<br><br><br>
+
+
+<h1 style="text-align: center;padding-bottom: 0;margin-bottom:0;">Field Assistants: </h1>
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center" width=10%></td>
+    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center" width=10%></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Josie</td>
+    <td class="tg-0lax">Cambria</td>
+  </tr>
+
 
