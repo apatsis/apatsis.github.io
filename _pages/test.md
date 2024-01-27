@@ -13,12 +13,13 @@ header:
 <table style="width: 100%">
 <tbody>
   <tr>
-    <td class="tg-0lax" style="text-align: left;" ><img src="/assets/images/Rivoli_small.jpg" alt="" ></td>
+    <td class="tg-0lax" style="text-align: left;" ><img src="/assets/images/Rivoli_small.png" alt="" ></td>
         <td class="tg-0lax" style="font-size: large;text-align: center;" >Following the murder of George Floyd on May 25, 2020, only 6 km from the University of Minnesota Campus, students in the Department of Earth and Environmental Science felt that the university's mission to engage and serve was not being upheld due to a lack of connection with local communities. In response, graduate students and staff from the department organized a one-day workshop between UMN scientists and community members from across the Twin Cities with the goal of fostering meaningful relationships and building a mutual awareness, understanding, and capacity for community-centered research in the Twin Cities. After participating in the inaugural summit event in 2021, I became a member of the organizing team. We worked collaboratively with community partners to plan and hold the second iteration of this event in 2023. We aim to establish long lasting partnerships between researchers and community groups that facilitate earth science research and curriculum in alignment with community priorities. Successful partnerships started at these events have resulted in ArcGIS map making workshops to facilitate mapping of lead levels, sampling and analysis of urban garden soils, outreach and engagement with local youth groups, and fertilizer testing for urban gardens. We continue to engage with this work and aim to establish the institutional memory and support necessary to sustain this event.</td>
   </tr>
 <br>
 
-<h2 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h2>
+
+<h2 style="padding-bottom: 0; margin-bottom: 0;">AFGS</h2>
 <h4 style="font-weight:normal; padding-top:0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h4>
 
 <table style="width: 100%">
