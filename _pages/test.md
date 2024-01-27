@@ -7,8 +7,8 @@ header:
   caption: "Mammoth, CA"
 ---
 
-<h1 style="text-align: center;padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h1>
-<h2 style="text-align: center;font-weight:normal;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
+<h1 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h1>
+<h2 style="font-weight:normal;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h2>
 
 <figure>
     <img src="/assets/images/Rivoli.jpg"
@@ -18,8 +18,8 @@ header:
 
 <br><br>
 
-<h1 style="text-align: center;padding-bottom: 0;margin-bottom:0;">Association of First-Generation Graduate Students</h1>
-<h2 style="text-align: center;font-weight:normal;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h2>
+<h1 style="padding-bottom: 0;margin-bottom:0;">Association of First-Generation Graduate Students</h1>
+<h2 style="font-weight:normal;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h2>
 
 <figure>
     <img src="/assets/images/AFGS_Potluck_photo1.png"
