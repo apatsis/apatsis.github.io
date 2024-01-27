@@ -6,6 +6,19 @@ header:
   overlay_image: /assets/images/littlehotcreek.jpg
   caption: "Mammoth, CA"
 ---
+
+<style>
+.header {
+    color: white;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="header">
+    Environmental Justice Summit
+</div>
+
 # Environmental Justice Summit 
 ## *Building sustainable community-university partnerships* 
 
