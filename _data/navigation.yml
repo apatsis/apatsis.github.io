@@ -7,3 +7,5 @@ main:
     url: /cv/
   - title: "Outreach"
     url: /outreach/
+  - title: "test" 
+    url: /test/
