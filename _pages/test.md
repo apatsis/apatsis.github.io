@@ -19,10 +19,6 @@ Following the murder of George Floyd on May 25, 2020, only 6 km from the Univers
 <h1 style="text-align: center;padding-bottom: 0;">Association of First-Generation Graduate Students</h1>
 <h2 style="text-align: center;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h2>
 
-
-<h1 style="text-align: center;">: Fostering a first-gen community 
-</h1>
-
 ![AFGS](/assets/images/AFGS_Potluck_photo1.png)
 
 I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota, and served as the first vice-president. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students.
