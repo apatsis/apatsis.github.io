@@ -38,11 +38,40 @@ header:
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center"></td>
-    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center"></td>
+    <td class="tg-0lax"><img src="/assets/images/josie_round.png" alt="" class="center" width=75%></td>
+    <td class="tg-0lax"><img src="/assets/images/cam_round.png" alt="" class="center" width=75%></td>
   </tr>
   <tr>
     <td class="tg-0lax">Josie</td>
     <td class="tg-0lax">Cambria</td>
   </tr>
+
+
+<html>
+<head>
+   <style>
+      body {
+         text-align: center;
+      }
+      figure {
+         display: block;
+         margin: 0;
+         padding: 0;
+      }
+      figcaption {
+         font-size: small;
+         color: white;
+         margin-top: 10px;
+         padding: 5px;
+      }
+   </style>
+</head>
+<body>
+   <h2></h2>
+   <figure>
+      <img src="/assets/images/AFGS_Potluck_photo1.png" alt="">
+      <figcaption>I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota, and served as the first vice-president. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students.</figcaption>
+   </figure>
+</body>
+</html>
 
