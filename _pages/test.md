@@ -7,7 +7,7 @@ header:
   caption: "Mammoth, CA"
 ---
 
-<h2 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h2>
+<h3 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h3>
 <h4 style="font-weight:normal; padding-top:0; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h4>
 
 <table style="width:100%;">
@@ -23,8 +23,8 @@ header:
 <br>
 
 
-<h2 style="padding-bottom: 0; margin-bottom: 0;">AFGS</h2>
-<h4 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>AAn organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h4>
+<h3 style="padding-bottom: 0; margin-bottom: 0;">AFGS</h3>
+<h4 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h4>
 
 <table style="width: 100%">
 <tbody>
