@@ -3,11 +3,11 @@ title: "Outreach"
 layout: splash
 permalink: /test/
 header:
-  overlay_image: /assets/images/littlehotcreek.jpg
+  overlay_image: /assets/images/littlehotcreek.png
   caption: "Mammoth, CA"
 ---
 
-<h3 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h3>
+<h2 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h2>
 <h4 style="font-weight:normal; padding-top:0; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h4>
 
 <table style="width:100%;" id="table1">
@@ -19,7 +19,7 @@ header:
   
 <br>
 
-<h3 style="padding-bottom: 0; margin-bottom: 0;">Association of First-Generation Graduate Students</h3>
+<h2 style="padding-bottom: 0; margin-bottom: 0;">Association of First-Generation Graduate Students</h2>
 <h4 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h4>
 
 <table style="width: 100%" id="table2">
