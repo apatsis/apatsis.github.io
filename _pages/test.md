@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/littlehotcreek.jpg
   caption: "Mammoth, CA"
 ---
-
+<article>
 <section>
 <h3 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h3>
 <h4 style="font-weight:normal; padding-top:0; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h4>
@@ -31,4 +31,5 @@ header:
     <td class="tg-0lax" style="font-size: medium;text-align: left;">I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota, and served as the first vice-president. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students.</td>
     <td class="tg-0lax" style="text-align: left; width: 20%; width: auto;" ><img src="/assets/images/AFGS_Potluck.png" alt="" ></td>
   </tr>
-  </section>
+</section>
+</article>
