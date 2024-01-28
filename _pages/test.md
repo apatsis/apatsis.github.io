@@ -8,7 +8,7 @@ header:
 ---
 
 <h2 style="padding-bottom: 0; margin-bottom: 0;">Environmental Justice Summit</h2>
-<h4 style="font-weight:normal; padding-top:0; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h4>
+<h5 style="font-weight:normal; padding-top:0; margin-top: 0;"><i>An event to build sustainable community-university partnerships and foster collaborative, community-based research</i></h5>
 
 <table style="width:100%;" id="table1">
 <tbody>
@@ -20,7 +20,7 @@ header:
 <br>
 
 <h2 style="padding-bottom: 0; margin-bottom: 0;">Association of First-Generation Graduate Students</h2>
-<h4 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h4>
+<h5 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h5>
 
 <table style="width: 100%" id="table2">
 <tbody>
