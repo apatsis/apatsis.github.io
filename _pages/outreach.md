@@ -1,7 +1,7 @@
 ---
 title: "Outreach"
 layout: splash
-permalink: /test/
+permalink: /outreach/
 header:
   overlay_image: /assets/images/littlehotcreek.png
   caption: "Mammoth, CA"
