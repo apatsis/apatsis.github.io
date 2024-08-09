@@ -9,7 +9,7 @@ header:
   image: /assets/images/cover_wide.jpg
 ---
   
-I'm a geomicrobiologist interested in microbial metabolism, diversity, and biogeography and how microbe-rock-water interactions impact our planet. I care about community-engaged scholarship and aim to build lasting relationships with local community groups to engaging in research, teaching, and outreach that centers the priorities of communities traditionally marginalized within the sciences. As a first-generation college student I care about fostering connections between individuals who hold the first-gen identity and helping them navigate academic spaces. In my free time, you can find me enjoying the outdoors with my dogs.
+I'm a geomicrobiologist that investigates how microbe-rock-water interactions impact our planet. I use metagenomics, the study of microbial communities using their genetic material, to understand the microbial ecology of systems and how microorganisms alter the linked biogeochemical cycles occuring across Earth's Critical Zone. I am dedicated to community-engaged scholarship and aim to build lasting relationships with local communities, exprecially those traditionally marginalized within the sciences, to engage in research, teaching, and outreach that centers the their priorities. As a first-generation college student who has experienced the struggle of navigating academia's hidden curriculum first-hand, I aim to foster a sense of belonging and inclusivity across scientific spaces that welcomes students from all backgrounds.  
 
 I am currently a PhD Candidate at the University of Minnesota - Twin Cities. 
 
