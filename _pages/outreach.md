@@ -26,10 +26,25 @@ header:
 <tbody>
   <tr>
     <td class="tg-0lax" style="text-align: left; width: 40%;" ><img src="/assets/images/AFGS_Potluck.png" alt="" ></td>
-    <td class="tg-0lax" style="font-size: medium;text-align: left;">I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota, and served as the first vice-president. Our student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and offer access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students.</td>
+    <td class="tg-0lax" style="font-size: medium;text-align: left;">I am a founding member of the Association of First-Generation Graduate Students (AFGS) at the University of Minnesota, and served as our first vice-president. This student organization, which now has 109 members from 65 different programs across the university, provides a support system for graduate students who hold the first-gen identity. We hold community-building events to foster connections between first-generation graduate students and facilitate access to resources that help members navigate the hidden curriculum of academia. We also work closely with the UMN Graduate School's First-Gen Connect network to guide their programming and communicate the needs of first-gen graduate students.</td>
   </tr></tbody></table>
 
 
+
+
+<br>
+
+<h2 style="padding-bottom: 0; margin-bottom: 0;">Summer Science Deep Dive with Urban Roots</h2>
+<h5 style="font-weight:normal; padding-top:0;margin-top: 0;"><i>An organization to connect first-generation graduate students and help them navigate the hidden curriculum of academia</i></h5>
+
+<table style="width: 100%" id="table2">
+<tbody>
+  <tr>
+    <td class="tg-0lax" style="text-align: left; width: 40%;" ><img src="/assets/images/AFGS_Potluck.png" alt="" ></td>
+    <td class="tg-0lax" style="font-size: medium;text-align: left;">I established a partnership between the Santelli Lab and Urban Roots, an urban agriculture non-profit in East St. Paul that engages and empowers youth through paid internships. This partnership began with collaborative soil sampling to investigate heavy metal contamiination and has grown into a "Summer Science Deep Dive" program, designed to build science identity and a foster a sense of belonging in academic spaces. University scientists mentor a cohort of youth interns as they design and implement a scientific study. Following the inaugural summer, interns even designed a research poster and presented their work at the UMN Earth Science Research Symposium! 
+    
+    </td>
+  </tr></tbody></table>
 
 
 
