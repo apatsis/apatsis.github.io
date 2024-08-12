@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fb775722-36c0-4fb5-b841-5228d2c11a87)---
 title: "Outreach"
 layout: splash
 permalink: /outreach/
