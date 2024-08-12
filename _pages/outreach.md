@@ -1,3 +1,4 @@
+---
 title: "Outreach"
 layout: splash
 permalink: /outreach/
@@ -40,9 +41,7 @@ header:
 <tbody>
   <tr>
     <td class="tg-0lax" style="text-align: left; width: 40%;" ><img src="/assets/images/UR.JPG" alt="" ></td>
-    <td class="tg-0lax" style="font-size: medium;text-align: left;">I established a partnership between the Santelli Lab and Urban Roots, an urban agriculture non-profit in East St. Paul that engages and empowers local youth through paid internships. This partnership, born out of a connection made at our departments Environmental Justice Summit, began with collaborative soil sampling to investigate heavy metal contamination at Urban Root's farm sites, and has grown into a reoccurring "Summer Science Deep Dive" program. The program is designed to engage youth interns in science to facilitate development of strong science identity and a foster a sense of belonging in academic spaces. University scientists mentor a cohort of youth interns as they design and implement a scientific study based at the flagship Urban Roots agricultural site. Following our first deep dive in the summer of 2023, interns continued to engage with the project as they designed an excellent research poster and communicated their findings at the University of Minnesota Earth Science Research Symposium!
-    
-    </td>
+    <td class="tg-0lax" style="font-size: medium;text-align: left;">I established a partnership between the Santelli Lab and Urban Roots, an urban agriculture non-profit in East St. Paul that engages and empowers local youth through paid internships. This partnership, born out of a connection made at our departments Environmental Justice Summit, began with collaborative soil sampling to investigate heavy metal contamination at Urban Root's farm sites, and has grown into a reoccurring "Summer Science Deep Dive" program. The program is designed to engage youth interns in science to facilitate development of strong science identity and a foster a sense of belonging in academic spaces. University scientists mentor a cohort of youth interns as they design and implement a scientific study based at the flagship Urban Roots agricultural site. Following our first deep dive in the summer of 2023, interns continued to engage with the project as they designed an excellent research poster and communicated their findings at the University of Minnesota Earth Science Research Symposium!</td>
   </tr></tbody></table>
 
 
