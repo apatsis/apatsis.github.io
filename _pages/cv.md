@@ -10,5 +10,5 @@ header:
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/CV_Aug24.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/CV_Aug24_big.png)
 {: .full}
