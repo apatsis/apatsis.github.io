@@ -116,4 +116,4 @@ tag_archive:
   path: /tags/
 
 atom_feed:
-hide: true
+  hide: true
