@@ -10,5 +10,5 @@ header:
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Amanda_Patsis_CV_Mar2025.mht)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Patsis_CV_Mar2025.png)
 {: .full}
