@@ -1,7 +1,7 @@
 
 ACP Personal Website 
 
-Welp, this is my website... Made using Jekyll & Minimal Mistakes
+Website made using Jekyll & Minimal Mistakes
 
 URL
 https://apatsis.github.io/
