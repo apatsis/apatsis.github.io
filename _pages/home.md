@@ -11,14 +11,11 @@ header:
   
 I'm a geomicrobiologist that investigates how microbe-rock-water interactions impact our planet. I use metagenomics, the study of microbial communities using their genetic material, to understand the microbial ecology of systems and how microorganisms alter the linked biogeochemical cycles occurring across Earth's Critical Zone. I am dedicated to community-engaged scholarship and aim to build lasting relationships with local communities, especially those traditionally marginalized within the sciences, to engage in research, teaching, and outreach that centers their priorities. As a first-generation college student who has experienced the struggle of navigating academia's hidden curriculum first-hand, I aim to foster a sense of belonging and inclusivity across scientific spaces that welcomes students from all backgrounds.  
 
-I am currently a PhD Candidate at the University of Minnesota - Twin Cities. 
-
-
 __<font size = "5" >Education</font>__  
-PhD in Geomicrobiology     |     expected 2025  
+PhD in Geomicrobiology     |      2025  
 *University of Minnesota* 
   
-BA in Biology              |      2013 - 2017  
+BA in Biology              |      2017  
 *Amherst College*
 
 <br>
