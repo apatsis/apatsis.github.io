@@ -57,10 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Amanda Patsis"
+  name   : "Amanda Patsis, Ph.D."
   avatar : "/assets/images/bio.jpg"
   bio    : |
-          Doctoral Candidate   
           Dept of Earth Sciences   
           University of Minnesota
   links:
